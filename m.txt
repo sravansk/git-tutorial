@@ -3,3 +3,5 @@ hiii this was  master file text nd modified
 editing with new feature-1 branch
 
 using the stash command
+
+updating modified changes in locally by fetch & merge concept:
